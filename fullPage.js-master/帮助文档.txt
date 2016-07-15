@@ -1,0 +1,5 @@
+详情请链接：http://www.uedsc.com/fullpage-options.html/
+
+
+fullPage的一个重要属性
+   active  加在任何具有section元素的类名里 刷新会直接跳转到该页面

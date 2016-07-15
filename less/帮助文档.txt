@@ -1,0 +1,4 @@
+一、下载node.js
+二、在webstorm里打开控制台 输入less -v检测版本号   如果控制台正常则可以下载node.js了。
+三、在控制台输入 npm install -g less
+四、下载完成后输入lessc -v检测是否下载正确

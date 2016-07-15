@@ -1,0 +1,6 @@
+主要为了移动端添加头文件<meta name="viewport" content="width=device-width">
+
+
+用法：
+   引入该js
+   调用方法：browserRedirect()；
